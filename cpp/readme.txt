@@ -1,0 +1,2 @@
+#For execute
+./testperfcpp nameFileToCompress
